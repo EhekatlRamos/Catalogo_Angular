@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<product>
+		<id>1</id>
+		<nombre>Patada Voladora Anti Psiquicos</nombre>
+		<precio>300</precio>
+		<descripcion>Patada voladora que funciona en psiquicos</descripcion>
+		<imagen>Patada_Voladora_Antipsiquicos.jpg</imagen>
+	</product>
+	<product>
+		<id>2</id>
+		<nombre>Punetazo purificador de sal</nombre>
+		<precio>100</precio>
+		<descripcion>Punetazo con sal de mesa para purificar a un espiritu</descripcion>
+		<imagen>Punetazo_Purificador_Sal.jpg</imagen>
+	</product>
+	<product>
+		<id>3</id>
+		<nombre>Defensa propia</nombre>
+		<precio>1000</precio>
+		<descripcion>Gritar defensa propia cuando no estas seguro si se considera como tal</descripcion>
+		<imagen>Defensa_Propia.jpg</imagen>
+	</product>
+	<product>
+		<id>4</id>
+		<nombre>Punetazo de hipnosis</nombre>
+		<precio>500</precio>
+		<descripcion>Distraccion del enemigo para dar un punetazo</descripcion>
+		<imagen>Punetazo_Hipnosis.jpg</imagen>
+	</product>
+	<product>
+		<id>5</id>
+		<nombre>Exorcismo grafico</nombre>
+		<precio>400</precio>
+		<descripcion>La eliminacion de un espiritu en una foto gracias al poder de photoshop</descripcion>
+		<imagen>Exorcismo_Grafico.jpg</imagen>
+	</product>
+</products>
